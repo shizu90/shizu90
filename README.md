@@ -10,6 +10,7 @@
   <img align = "center" alt = "CSS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align = "center" alt = "Sass" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
   <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align = "center" alt = "Bootstrap" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align = "center" alt = "ExpressJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align = "center" alt = "Python" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
   <img align = "center" alt = "C++" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />        
