@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizu90&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
-<div display = "inline-block"><br>
+<div display = "inline-block" aling = "center"><br>
   <img align = "center" alt = "Javascript" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align = "center" alt = "HTML" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
   <img align = "center" alt = "CSS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
