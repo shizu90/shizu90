@@ -1,5 +1,5 @@
 
-- Currently learning **C# <img align = "center" alt = "Csharp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />, ReactJS <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and Angular <img align = "center" alt = "AngularJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />**
+- Currently learning **C# <img align = "center" alt = "Csharp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />, ReactJS <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and Angular <img align = "center" alt = "AngularJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />**
 - Contact: **gabriel.moretto9090@gmail.com**
 
 
@@ -26,7 +26,8 @@
     <img align = "center" alt = "ExpressJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align = "center" alt = "PostgreSQL" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
     <img align = "center" alt = "MongoDB" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align = "center" alt = "Csharp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align = "center" alt = "Csharp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />    
+    <img align = "center" alt = "Python" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   </div>
 </div>
 
