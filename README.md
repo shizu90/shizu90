@@ -1,5 +1,9 @@
-- Currently learning **C# <img align = "center" alt = "Csharp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />, ReactJS <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and Angular <img align = "center" alt = "AngularJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />**
-- Contact: **gabriel.moretto9090@gmail.com**
+
+<div aling = "center">
+  - Currently learning **C# <img align = "center" alt = "Csharp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-      original.svg" />, ReactJS <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-   original.svg" /> and Angular <img align = "center" alt = "AngularJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />**
+  - Contact: **gabriel.moretto9090@gmail.com**
+</div>
+
 
 
 
