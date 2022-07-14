@@ -4,8 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizu90&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+<h2>Technologies: </h2>
 <div align = "center">
-  <p>Technologies</p>
   <div display = "inline-block"><br>
     <img align = "center" alt = "Typescript" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align = "center" alt = "HTML" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
