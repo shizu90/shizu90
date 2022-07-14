@@ -1,4 +1,7 @@
-
+<ul>
+  <li>Contact: gabriel.moretto9090@gmail.com</li>
+  <li>Currently working with C#, ReactJS and Angular</li>
+</ul>
 
 
 
