@@ -17,7 +17,6 @@
     <img align = "center" alt = "HTML" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
     <img align = "center" alt = "CSS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align = "center" alt = "Sass" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img align = "center" alt = "Gulp" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
     <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align = "center" alt = "AngularJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img align = "center" alt = "Bootstrap" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
