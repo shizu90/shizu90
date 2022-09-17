@@ -28,6 +28,10 @@
     <img align = "center" alt = "Python" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
 </div>
+<hr></hr>
+<a href="https://www.codewars.com/users/shizu90" target="_blank">
+   <img src="https://www.codewars.com/users/shizu90/badges/large"/>
+</a>
 
 
           
