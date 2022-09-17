@@ -29,7 +29,7 @@
   </div>
 </div>
 <hr></hr>
-<a href="https://www.codewars.com/users/shizu90" target="_blank">
+<a href="https://www.codewars.com/users/shizu90" target="_blank" align="center">
    <img src="https://www.codewars.com/users/shizu90/badges/large"/>
 </a>
 
