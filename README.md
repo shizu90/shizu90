@@ -28,7 +28,7 @@
 <hr></hr>
 <div align="center">
   <a href="https://www.codewars.com/users/shizu90" target="_blank">
-     <img src="https://www.codewars.com/users/shizu90/badges/small"/>
+     <img src="https://www.codewars.com/users/gabriel9090/badges/small"/>
   </a>  
 </div>
 
