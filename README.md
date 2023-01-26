@@ -14,9 +14,8 @@
   <h2 aling = "center">Technologies: </h2>
   <div display = "inline-block"><br>
     <img align = "center" alt = "Typescript" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align = "center" alt = "HTML" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-    <img align = "center" alt = "CSS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align = "center" alt = "VueJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img align = "center" alt = "NodeJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align = "center" alt = "PostgreSQL" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
     <img align = "center" alt = "MongoDB" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
