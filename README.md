@@ -17,8 +17,6 @@
     <img align = "center" alt = "ReactJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align = "center" alt = "VueJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img align = "center" alt = "NodeJS" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align = "center" alt = "PostgreSQL" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
-    <img align = "center" alt = "MongoDB" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align = "center" alt = "Java" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
     <img align = "center" alt = "Spring" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align = "center" alt = "Python" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
