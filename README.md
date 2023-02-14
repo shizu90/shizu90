@@ -22,6 +22,8 @@
     <img align = "center" alt = "Java" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
     <img align = "center" alt = "Spring" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align = "center" alt = "Python" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align = "center" alt = "PHP" width = "40" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
   </div>
 </div>
 <hr></hr>
